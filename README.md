@@ -1,5 +1,6 @@
 # Practica de Modelado Molecular
 Máster Bioinformática Universidad de Murcia.
+
 Realiza simulaciones a 298 K y 400 K siguiendo los pasos equivalentes detallados durante las clases
 pr acticas.
 Muestra la evoluci ́on temporal de las energ ́ıas total y cin ́etica, la temperatura del sistema, dos distancias de
